@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">4) Android. Layout and Views</string>
+    <string name="gameName">Гра Пятнашки</string>
+    <string name="btnStart">Почати/Перезапустити гру</string>
+</resources>

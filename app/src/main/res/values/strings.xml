@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">4Android-_Layout_And_Views</string>
+    <string name="app_name">4) Android. Layout and Views</string>
+    <string name="gameName">Game "Tag"</string>
+    <string name="btnStart">Start/Restart game</string>
 </resources>
